@@ -1,9 +1,3 @@
----
-title: "HTB Crocodile: From Anonymous FTP to Admin Panel for the Flag"
-published: false
-tags: [hackthebox, ftp, pentesting, tutorial]
----
-
 ## Introduction
 
 In this tutorial, we’ll chain an anonymous FTP leak into a hidden web admin login on Hack The Box’s **Crocodile** box to retrieve the flag.
